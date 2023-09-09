@@ -35,7 +35,7 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 # :computer: My Technical Stack
 | platform | technology |
 |--|--|
-| 📱 Front-End | ![JavaScript Badge]([https://img.shields.io/badge/android-ffffff?style=for-the-badge&logo=android](https://icons8.com/icon/tGvHBPJaKqEd/javascript)) ![Flutter Badge](https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
+| 📱 Front-End | ![JavaScript Badge](https://icons8.com/icon/tGvHBPJaKqEd/javascript) ![Flutter Badge](https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
 :computer: Back-End | ![PHP Badge](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php) ![MYSQL Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5)
 
 If you like my work [Buy me a Coffee](https://paypal.me/sijas)
