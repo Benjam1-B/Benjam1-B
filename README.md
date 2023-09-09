@@ -35,5 +35,5 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 # :computer: My Technical Stack
 | Platform | Technology |
 |--|--|
-| 📲 Front-End | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=css) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
+| 📲 Front-End | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
 | 👨‍💻 Back-End | ![ABAP Badge](https://img.shields.io/badge/abap-ffffff?style=for-the-badge&logo=sap) ![SQL Badge](https://img.shields.io/badge/sql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js)
