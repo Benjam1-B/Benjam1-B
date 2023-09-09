@@ -33,7 +33,7 @@ En dehors du développement, je suis un passionné de football et j'adore passer
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter de tout ce qui concerne le monde de la programmation. Ensemble, nous pouvons réaliser de grandes choses ! 🚀
 
 # :computer: My Technical Stack
-| platform | technology |
+| Platform | Technology |
 |--|--|
 | 📱 Front-End | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
-:computer: Back-End | ![ABAP Badge](https://img.shields.io/badge/abap-ffffff?style=for-the-badge&logo=abap) ![SQL Badge](https://img.shields.io/badge/sql-ffffff?style=for-the-badge&logo=sql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js)
+:computer: Back-End | ![ABAP Badge](https://img.shields.io/badge/abap-ffffff?style=for-the-badge&logo=abap)                 ![SQL Badge](https://img.shields.io/badge/sql-ffffff?style=for-the-badge&logo=sql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js)
