@@ -15,17 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👨🏽‍💻 [Mohammed Sijas](https://sijas.in)  [@sijas](https://sijas.in)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Sijas-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammedsijas/)](https://www.linkedin.com/in/mohammedsijas/) [![Twitter Badge](http://img.shields.io/badge/-@sijasctk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/sijasctk) [![GitHub followers](https://img.shields.io/github/followers/sijas?label=Follow&style=social)](https://github.com/sijas/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-me@sijas.in-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:me@sijas.in)](mailto:me@sijas.in)
+# 👨🏽‍💻 [Benjamin Brunet](https://sijas.in)  [@sijas](https://sijas.in)
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Brunet-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammedsijas/)](https://www.linkedin.com/in/mohammedsijas/) [![GitHub followers](https://img.shields.io/github/followers/Benjam1-B?label=Follow&style=social)](https://github.com/Benjam1-B/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-benjaminbrunet.dev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:benjaminbrunet.dev@gmail.com)](mailto:benjaminbrunet.dev@gmail.com)
 
-🤘Hello World ! I've been a coder since I was a kid, I started with web development since class of 5 😊. Fast forward 18 years, Now I am a Web Developer, API Builder, Application Developer, SAP Consultant, a good Husband. I love building complicated systems and solving problems using computers. 
+Bienvenue sur mon profil GitHub ! 👋
 
-Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :camera: Photography
+Je suis Benjam1-B, un développeur autodidacte passionné par le monde de la programmation. J'ai construit mon parcours en utilisant des plateformes en ligne gratuites, ce qui m'a permis d'acquérir une solide base de compétences.
+
+👨‍💻 Mes compétences principales incluent la maîtrise de l'ABAP, du JavaScript et du SQL. Je suis actuellement en train de me former au développement front-end, en particulier via SAPUI5, avec l'objectif de devenir un développeur front-end sur la plateforme SAP.
+
+🌟 Bien que je n'aie pas encore de projets open source notables à mon actif, je suis déterminé à contribuer davantage à la communauté de développement et à créer des projets innovants à l'avenir.
+
+📚 Je me prépare également pour une certification FIORI, afin de valider mes compétences dans le domaine de l'interface utilisateur SAP.
+
+En dehors du développement, je suis un passionné de football et j'adore passer du temps avec ma famille. De plus, je ne peux pas nier ma passion pour la cuisine, car il n'y a rien de mieux que de déguster de délicieux plats faits maison.
+
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter de tout ce qui concerne le monde de la programmation. Ensemble, nous pouvons réaliser de grandes choses ! 🚀
 
 # :computer: My Technical Stack
 | platform | technology |
 |--|--|
-| 📱 Mobile | ![Android Badge](https://img.shields.io/badge/android-ffffff?style=for-the-badge&logo=android) ![Flutter Badge](https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
-:computer: Web development | ![PHP Badge](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php) ![MYSQL Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5)
+| 📱 Front-End | ![JavaScript Badge]([https://img.shields.io/badge/android-ffffff?style=for-the-badge&logo=android](https://icons8.com/icon/tGvHBPJaKqEd/javascript)) ![Flutter Badge](https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
+:computer: Back-End | ![PHP Badge](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php) ![MYSQL Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5)
 
 If you like my work [Buy me a Coffee](https://paypal.me/sijas)
