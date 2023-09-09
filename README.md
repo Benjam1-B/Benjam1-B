@@ -35,7 +35,8 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 # :computer: My Technical Stack
 | Platform | Technology |
 |--|--|
-![image](https://github.com/Benjam1-B/Benjam1-B/assets/83239334/c8559658-c2b7-436b-a692-d73b998d8f1e)
+![image](https://github.com/Benjam1-B/Benjam1-B/assets/83239334/c1ad7927-a4b2-4b4a-a673-f7398f85f684)
+
 
 
 | 📱 Front-End | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
