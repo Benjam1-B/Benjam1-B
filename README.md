@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👨🏽‍💻 [Benjamin Brunet](https://sijas.in)  [@sijas](https://sijas.in)
+# 👨👨‍💻  [Benjamin Brunet](https://sijas.in)  [@sijas](https://sijas.in)
 [![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Brunet-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammedsijas/)](https://www.linkedin.com/in/mohammedsijas/) [![GitHub followers](https://img.shields.io/github/followers/Benjam1-B?label=Follow&style=social)](https://github.com/Benjam1-B/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-benjaminbrunet.dev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:benjaminbrunet.dev@gmail.com)](mailto:benjaminbrunet.dev@gmail.com)
 
 Bienvenue sur mon profil GitHub ! 👋
@@ -36,4 +36,4 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 | Platform | Technology |
 |--|--|
 | 📲 Front-End | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
-| 👨‍💻 Back-End | ![ABAP Badge](https://img.shields.io/badge/abap-ffffff?style=for-the-badge&logo=sap) ![SQL Badge](https://img.shields.io/badge/sql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![Python Badge](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
+| 💻 Back-End | ![ABAP Badge](https://img.shields.io/badge/abap-ffffff?style=for-the-badge&logo=sap) ![SQL Badge](https://img.shields.io/badge/sql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![Python Badge](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
