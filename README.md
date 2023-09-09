@@ -1,4 +1,4 @@
-# 👨🏽 [Benjamin Brunet](https://sijas.in)  [@sijas](https://sijas.in)
+# 👨🏽 [Benjamin Brunet]
 [![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Brunet-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/benbrunet/)](https://www.linkedin.com/in/benbrunet/) [![GitHub followers](https://img.shields.io/github/followers/Benjam1-B?label=Follow&style=social)](https://github.com/Benjam1-B/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-benjaminbrunet.dev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:benjaminbrunet.dev@gmail.com)](mailto:benjaminbrunet.dev@gmail.com)
 
 Welcome to my GitHub profile! 👋
