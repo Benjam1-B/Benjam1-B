@@ -1,36 +1,19 @@
-<!--### Hi there 👋
-
-
-**Benjam1-B/Benjam1-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👨🏽 [Benjamin Brunet](https://sijas.in)  [@sijas](https://sijas.in)
-[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Brunet-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammedsijas/)](https://www.linkedin.com/in/mohammedsijas/) [![GitHub followers](https://img.shields.io/github/followers/Benjam1-B?label=Follow&style=social)](https://github.com/Benjam1-B/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-benjaminbrunet.dev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:benjaminbrunet.dev@gmail.com)](mailto:benjaminbrunet.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Brunet-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/benbrunet/)](https://www.linkedin.com/in/benbrunet/) [![GitHub followers](https://img.shields.io/github/followers/Benjam1-B?label=Follow&style=social)](https://github.com/Benjam1-B/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-benjaminbrunet.dev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:benjaminbrunet.dev@gmail.com)](mailto:benjaminbrunet.dev@gmail.com)
 
-Bienvenue sur mon profil GitHub ! 👋
+Welcome to my GitHub profile! 👋
 
-Je suis Benjam1-B, un développeur autodidacte passionné par le monde de la programmation. J'ai construit mon parcours en utilisant des plateformes en ligne gratuites, ce qui m'a permis d'acquérir une solide base de compétences.
+I'm Benjamin Brunet, a self-taught developer with a passion for the world of programming. I've built my background using free online platforms, which has given me a solid foundation of skills.
 
-👨‍💻 Mes compétences principales incluent la maîtrise de l'ABAP, du JavaScript et du SQL. Je suis actuellement en train de me former au développement front-end, en particulier via SAPUI5, avec l'objectif de devenir un développeur front-end sur la plateforme SAP.
+👨‍💻 My main skills include ABAP, JavaScript and SQL. I am currently training in front-end development, specifically via SAPUI5, with the aim of becoming a front-end developer on the SAP platform.
 
-🌟 Bien que je n'aie pas encore de projets open source notables à mon actif, je suis déterminé à contribuer davantage à la communauté de développement et à créer des projets innovants à l'avenir.
+🌟 Although I don't have any notable open source projects under my belt yet, I am determined to contribute more to the development community and create innovative projects in the future.
 
-📚 Je me prépare également pour une certification FIORI, afin de valider mes compétences dans le domaine de l'interface utilisateur SAP.
+📚 I'm also preparing for a FIORI certification, to validate my skills in the SAP user interface field.
 
-En dehors du développement, je suis un passionné de football et j'adore passer du temps avec ma famille. De plus, je ne peux pas nier ma passion pour la cuisine, car il n'y a rien de mieux que de déguster de délicieux plats faits maison.
+Outside of development, I'm a keen footballer and love spending time with my family. What's more, I can't deny my passion for cooking, as there's nothing better than enjoying delicious home-cooked meals.
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter de tout ce qui concerne le monde de la programmation. Ensemble, nous pouvons réaliser de grandes choses ! 🚀
+Please feel free to explore my projects and contact me if you have any questions, ideas for collaboration or simply to discuss anything related to the world of programming. Together we can achieve great things! 🚀
 
 # :computer: My Technical Stack
 | Platform | Technology |
